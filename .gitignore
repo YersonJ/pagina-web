@@ -1,0 +1,4 @@
+# para que git no lo envie
+
+config/app.config
+
